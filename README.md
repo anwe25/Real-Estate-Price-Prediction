@@ -15,4 +15,19 @@ This project walks through the entire process of building a machine learning mod
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Python 3.7+**
+- **NumPy** — Numerical computing
+- **Pandas** — Data manipulation
+- **Matplotlib / Seaborn** — Data visualization
+- **scikit-learn** — Machine learning models and utilities
+- **Joblib** — Model persistence (saving/loading)
+- **Jupyter Notebook** — Interactive coding and documentation
+
+---
+
+
+
+
 
